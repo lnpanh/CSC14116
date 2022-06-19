@@ -3,7 +3,15 @@
 ## Problem Statement
 
 ### Overview
-@NL
+Enhancing document image is a fundamental stage in image processing which support scan images, convert images to text, and re-align shooting angles,...
+
+The problem is divided into two main steps:
+- Step 1: Align the photo, remove the excess background around
+- Step 2: Adjust the brightness and contrast of the photo
+
+Common applications where this problem applies are:
+- Scanning function of iPhone Notes 
+- CamScanner app
 
 
  
