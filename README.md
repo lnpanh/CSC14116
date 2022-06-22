@@ -4,6 +4,9 @@
 | 18127046   | Lư Ngọc Liên     |  [Ngocien](https://github.com/Ngocien) |
 | 1653098   |   Võ Minh Tú | [vmtu2507](https://github.com/vmtu2507) | 
 
+
+[View report in Google Colab](https://colab.research.google.com/github/lnpanh/CSC14116/blob/main/Report.ipynb)
+
 ### Weekly plan
 
 <table class="tg">
