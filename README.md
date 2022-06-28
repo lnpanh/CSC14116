@@ -55,23 +55,24 @@
     <td class="tg-c3ow" rowspan="3">Phân tích bài toán </td>
     <td class="tg-0pky">Định nghĩa và cài đặt bước chuyển đổi ảnh trực diện với màn hình</td>
     <td class="tg-kgv7"><span style="color:#000">Phương Anh</span></td>
-    <td class="tg-kgv7"><span style="color:#000"></span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+    <td class="tg-9hil" rowspan="5">28/06/2022</td>
   </tr>
   <tr>
     <td class="tg-0pky">Định nghĩa và cài đặt bước phát hiện biên cạnh của tấm ảnh</td>
     <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
-    <td class="tg-kgv7"><span style="color:#000"></span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">Định nghĩa và cài đặt các bước điều chỉnh độ phân giải và độ sáng của bức ảnh</td>
     <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
-    <td class="tg-kgv7"><span style="color:#000"></span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="3">Cài đặt tuần tự</td>
     <td class="tg-0pky">Cài đặt đầy đủ các bước trong bài toán (cv2, numpy, @jit)</td>
     <td class="tg-kgv7"><span style="color:#000">Cả nhóm</span></td>
-    <td class="tg-kgv7"><span style="color:#000"></span></td>
+    <td class="tg-kgv7"><span style="color:#000">60%</span></td>
   </tr>
  
  
