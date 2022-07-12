@@ -50,13 +50,14 @@
     <td class="tg-0pky">Cả nhóm</td>
      <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
+  
   <tr>
-    <td class="tg-c3ow" rowspan="6">W07</td>
+    <td class="tg-c3ow" rowspan="4">W07</td>
     <td class="tg-c3ow" rowspan="3">Phân tích bài toán </td>
     <td class="tg-0pky">Định nghĩa và cài đặt bước chuyển đổi ảnh trực diện với màn hình</td>
     <td class="tg-kgv7"><span style="color:#000">Phương Anh</span></td>
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
-    <td class="tg-9hil" rowspan="5">28/06/2022</td>
+    <td class="tg-9hil" rowspan="4">12/07/2022</td>
   </tr>
   <tr>
     <td class="tg-0pky">Định nghĩa và cài đặt bước phát hiện biên cạnh của tấm ảnh</td>
@@ -69,10 +70,35 @@
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" rowspan="3">Cài đặt tuần tự</td>
-    <td class="tg-0pky">Cài đặt đầy đủ các bước trong bài toán (cv2, numpy, @jit)</td>
+    <td class="tg-c3ow" rowspan="1">Cài đặt tuần tự</td>
+    <td class="tg-0pky">Cài đặt đầy đủ các bước trong bài toán theo phiên bản tuần tự</td>
     <td class="tg-kgv7"><span style="color:#000">Cả nhóm</span></td>
-    <td class="tg-kgv7"><span style="color:#000">60%</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="4">W08</td>
+    <td class="tg-c3ow" rowspan="3"> Hoàn thiện các bước tuần tự </td>
+    <td class="tg-0pky">Tuần tự bước Homography (bước 3)</td>
+    <td class="tg-kgv7"><span style="color:#000">Phương Anh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+    <td class="tg-9hil" rowspan="4">12/07/2022</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tuần tự bước điều chỉnh độ sáng, độ tương phản (bước 4) và nhận xét</td>
+    <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nhận xét bước phát hiện biên cạnh, homography (bước 1, 3)</td>
+    <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="1">Cài đặt song song</td>
+    <td class="tg-0pky">Song song bước làm xám ảnh</td>
+    <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
  
  
