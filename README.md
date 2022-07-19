@@ -100,6 +100,29 @@
     <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="4">W09</td>
+    <td class="tg-c3ow" rowspan="2">Phân tích các bước cần song song </td>
+    <td class="tg-0pky">Chạy các bước tuần tự và so sánh thời gian </td>
+    <td class="tg-kgv7" rowspan="2"><span style="color:#000">Phương Anh</span></td>
+    <td class="tg-kgv7" rowspan="2"><span style="color:#000">100%</span></td>
+    <td class="tg-9hil" rowspan="4">20/07/2022</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Chọn ra các hàm có thể song song hóa</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2">Cài đặt song song</td>
+    <td class="tg-0pky">Các hàm con của bước 1, 3 (xác định biên cạnh và map ảnh sang tọa độ mới)</td>
+    <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
+    <td class="tg-kgv7"><span style="color:#000">90%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Hàm của bước 4 (điều chỉnh độ sáng, độ tương phản)</td>
+    <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
+    <td class="tg-kgv7"><span style="color:#000"></span></td>
+  </tr>
  
  
 </tbody>
