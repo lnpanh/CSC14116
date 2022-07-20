@@ -121,7 +121,7 @@
   <tr>
     <td class="tg-0pky">Hàm của bước 4 (điều chỉnh độ sáng, độ tương phản)</td>
     <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
-    <td class="tg-kgv7"><span style="color:#000"></span></td>
+    <td class="tg-kgv7"><span style="color:#000">50%</span></td>
   </tr>
  
  
