@@ -123,6 +123,36 @@
     <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
     <td class="tg-kgv7"><span style="color:#000">50%</span></td>
   </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="5">W10</td>
+    <td class="tg-c3ow" rowspan="2">Tuần tự </td>
+    <td class="tg-0pky">Cài đặt hàm xoay ảnh, lật ảnh</td>
+    <td class="tg-kgv7"><span style="color:#000">Phương Anh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+    <td class="tg-9hil" rowspan="5">27/07/2022</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Cập nhật thông tin bước điều chỉnh độ sáng, độ tương phản (bước 4)</td>
+    <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Cài đặt song song</td>
+    <td class="tg-0pky">Cài đặt hàm map ảnh sang tọa độ mới</td>
+    <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tạo dataframe và nhận xét thời gian chạy</td>
+    <td class="tg-kgv7"><span style="color:#000">Phương Anh</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tối ưu hóa bằng cách hạn chế copy dữ liệu giữa GPU và CPU</td>
+    <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
+    <td class="tg-kgv7"><span style="color:#000"></span></td>
+  </tr>
  
  
 </tbody>
