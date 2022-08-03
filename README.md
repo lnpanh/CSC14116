@@ -153,6 +153,27 @@
     <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
     <td class="tg-kgv7"><span style="color:#000">50%</span></td>
   </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="3">W11</td>
+    <td class="tg-c3ow" rowspan="1">Tuần tự </td>
+    <td class="tg-0pky">Gom các hàm tuần tự lại theo step</td>
+    <td class="tg-kgv7"><span style="color:#000">Ngọc Liên</span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+    <td class="tg-9hil" rowspan="3">03/08/2022</td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow" rowspan="2">Cài đặt song song</td>
+    <td class="tg-0pky"> Tối ưu hóa lần 1 </td>
+    <td class="tg-kgv7"><span style="color:#000"> Phương Anh </span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Cài đặt lại bước 4</td>
+    <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
+    <td class="tg-kgv7"><span style="color:#000"></span></td>
+  </tr>
  
  
 </tbody>
