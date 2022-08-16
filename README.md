@@ -174,6 +174,27 @@
     <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
     <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
+  
+  <tr>
+    <td class="tg-c3ow" rowspan="3">W12</td>
+    <td class="tg-c3ow" rowspan="1">Tuần tự</td>
+    <td class="tg-0pky">Chỉnh sửa bước 3, bố cục báo cáo </td>
+    <td class="tg-kgv7"><span style="color:#000"> Phương Anh </span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+    <td class="tg-9hil" rowspan="3">16/08/2022</td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow" rowspan="2">Cài đặt song song</td>
+    <td class="tg-0pky"> Tối ưu hóa lần 2 sử dụng CMEM, song song bước tìm giá trị max trong mảng </td>
+    <td class="tg-kgv7"><span style="color:#000"> Ngọc Liên </span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> Cài đặt SMEM cho hàm convolution </td>
+    <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
+    <td class="tg-kgv7"><span style="color:#000"> 70% </span></td>
+  </tr>
  
  
 </tbody>
