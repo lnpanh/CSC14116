@@ -172,7 +172,7 @@
   <tr>
     <td class="tg-0pky">Cài đặt lại bước 4</td>
     <td class="tg-kgv7"><span style="color:#000">Minh Tú</span></td>
-    <td class="tg-kgv7"><span style="color:#000"></span></td>
+    <td class="tg-kgv7"><span style="color:#000">100%</span></td>
   </tr>
  
  
